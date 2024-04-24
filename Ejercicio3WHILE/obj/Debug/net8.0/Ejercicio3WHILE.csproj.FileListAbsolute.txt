@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\bin\Debug\net8.0\Ejercicio3WHILE.exe
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\bin\Debug\net8.0\Ejercicio3WHILE.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\bin\Debug\net8.0\Ejercicio3WHILE.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\bin\Debug\net8.0\Ejercicio3WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\bin\Debug\net8.0\Ejercicio3WHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\refint\Ejercicio3WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\Ejercicio3WHILE.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3WHILE\obj\Debug\net8.0\ref\Ejercicio3WHILE.dll

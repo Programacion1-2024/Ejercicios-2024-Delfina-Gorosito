@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\bin\Debug\net8.0\Consola3.exe
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\bin\Debug\net8.0\Consola3.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\bin\Debug\net8.0\Consola3.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\bin\Debug\net8.0\Consola3.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\bin\Debug\net8.0\Consola3.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\refint\Consola3.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\Consola3.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio3WHILE\Ejercicio3\obj\Debug\net8.0\ref\Consola3.dll
