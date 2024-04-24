@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\bin\Debug\net8.0\Console5.exe
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\bin\Debug\net8.0\Console5.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\bin\Debug\net8.0\Console5.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\bin\Debug\net8.0\Console5.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\bin\Debug\net8.0\Console5.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\refint\Console5.dll
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\Console5.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\Ejercicio 2\Console5\obj\Debug\net8.0\ref\Console5.dll
