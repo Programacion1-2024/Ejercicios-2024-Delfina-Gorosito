@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj": {}
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj": {
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj",
+        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj",
         "projectName": "Ejercicio3WHILE",
-        "projectPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj",
+        "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3WHILE\\Ejercicio3WHILE.csproj",
         "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3WHILE\\obj\\",
+        "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3WHILE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",

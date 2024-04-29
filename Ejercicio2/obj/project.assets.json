@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio2\\Consola2.csproj",
-      "projectName": "Consola2",
-      "projectPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio2\\Consola2.csproj",
+      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio2\\Consola2WHILE.csproj",
+      "projectName": "Consola2WHILE",
+      "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio2\\Consola2WHILE.csproj",
       "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio2\\obj\\",
+      "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",

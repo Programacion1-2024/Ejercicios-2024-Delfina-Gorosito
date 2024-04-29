@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3\\Consola3.csproj": {}
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3\\Consola3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3\\Consola3.csproj": {
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3\\Consola3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3\\Consola3.csproj",
+        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3\\Consola3.csproj",
         "projectName": "Consola3",
-        "projectPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3\\Consola3.csproj",
+        "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3\\Consola3.csproj",
         "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\Ejercicio3WHILE\\Ejercicio3\\obj\\",
+        "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",
