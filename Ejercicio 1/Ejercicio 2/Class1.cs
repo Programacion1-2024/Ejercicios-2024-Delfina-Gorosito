@@ -1,8 +1,8 @@
 ﻿//Determinar si un número es par u impar//
 
-using System.ComponentModel.Design;
 
 Console.WriteLine("ingrese un numero:");
+
 int number;
 if (!Int32.TryParse(Console.ReadLine(), out number)) ;
 {

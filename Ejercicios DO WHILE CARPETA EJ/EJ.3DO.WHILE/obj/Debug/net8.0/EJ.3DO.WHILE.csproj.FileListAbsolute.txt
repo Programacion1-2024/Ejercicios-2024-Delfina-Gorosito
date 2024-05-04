@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\bin\Debug\net8.0\EJ.3DO.WHILE.exe
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\bin\Debug\net8.0\EJ.3DO.WHILE.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\bin\Debug\net8.0\EJ.3DO.WHILE.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\bin\Debug\net8.0\EJ.3DO.WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\bin\Debug\net8.0\EJ.3DO.WHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\refint\EJ.3DO.WHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\EJ.3DO.WHILE.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJ.3DO.WHILE\obj\Debug\net8.0\ref\EJ.3DO.WHILE.dll

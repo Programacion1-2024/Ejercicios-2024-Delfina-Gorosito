@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\bin\Debug\net8.0\EJERCICIOSDOWHILE.exe
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\bin\Debug\net8.0\EJERCICIOSDOWHILE.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\bin\Debug\net8.0\EJERCICIOSDOWHILE.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\bin\Debug\net8.0\EJERCICIOSDOWHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\bin\Debug\net8.0\EJERCICIOSDOWHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\refint\EJERCICIOSDOWHILE.dll
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\EJERCICIOSDOWHILE.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\EJERCICIOSDOWHILE\EJERCICIOSDOWHILE\obj\Debug\net8.0\ref\EJERCICIOSDOWHILE.dll
