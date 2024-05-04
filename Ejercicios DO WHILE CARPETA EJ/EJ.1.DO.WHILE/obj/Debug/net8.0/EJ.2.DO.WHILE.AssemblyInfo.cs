@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EJ.2.DO.WHILE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c76c0a4eafc5edfba19968b09680847e0124960f")]
 [assembly: System.Reflection.AssemblyProductAttribute("EJ.2.DO.WHILE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EJ.2.DO.WHILE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
