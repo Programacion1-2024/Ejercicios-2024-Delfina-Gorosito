@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\bin\Debug\net8.0\LISTA4.exe
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\bin\Debug\net8.0\LISTA4.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\bin\Debug\net8.0\LISTA4.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\bin\Debug\net8.0\LISTA4.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\bin\Debug\net8.0\LISTA4.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\refint\LISTA4.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\LISTA4.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\LISTA4\obj\Debug\net8.0\ref\LISTA4.dll

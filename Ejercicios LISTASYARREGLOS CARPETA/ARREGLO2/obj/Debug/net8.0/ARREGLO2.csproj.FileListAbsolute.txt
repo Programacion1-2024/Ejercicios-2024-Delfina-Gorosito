@@ -1,0 +1,14 @@
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\bin\Debug\net8.0\ARREGLO2.exe
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\bin\Debug\net8.0\ARREGLO2.deps.json
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\bin\Debug\net8.0\ARREGLO2.runtimeconfig.json
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\bin\Debug\net8.0\ARREGLO2.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\bin\Debug\net8.0\ARREGLO2.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\refint\ARREGLO2.dll
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.pdb
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ARREGLO2.genruntimeconfig.cache
+C:\Users\Melli\OneDrive\Escritorio\C\LISTASYARREGLOS\ARREGLO2\obj\Debug\net8.0\ref\ARREGLO2.dll
