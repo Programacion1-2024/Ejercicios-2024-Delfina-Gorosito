@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA6\\LISTA6.csproj",
+      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA6\\LISTA6.csproj",
       "projectName": "LISTA6",
-      "projectPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA6\\LISTA6.csproj",
+      "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA6\\LISTA6.csproj",
       "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA6\\obj\\",
+      "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",

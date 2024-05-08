@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA3\\LISTA3.csproj": {}
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA3\\LISTA3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA3\\LISTA3.csproj": {
+    "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA3\\LISTA3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA3\\LISTA3.csproj",
+        "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA3\\LISTA3.csproj",
         "projectName": "LISTA3",
-        "projectPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA3\\LISTA3.csproj",
+        "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA3\\LISTA3.csproj",
         "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Melli\\OneDrive\\Escritorio\\C\\LISTASYARREGLOS\\LISTA3\\obj\\",
+        "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Ejercicios LISTASYARREGLOS CARPETA\\LISTA3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",
