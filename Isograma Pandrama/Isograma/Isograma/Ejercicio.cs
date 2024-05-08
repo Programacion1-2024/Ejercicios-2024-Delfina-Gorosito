@@ -27,8 +27,19 @@ namespace Isograma
     public static class Isogram
     {
         public static bool IsIsogram(string word)
-        {
-            throw new NotImplementedException("You need to implement this function.");
+        {   //Convertir la palabra en Minuscula y elima los espacios y guiones  
+            string palabraLimpia = word.ToLower().Replace(" ", "").Replace("-", "");
+
+            // Verificar si la palabra contiene letras repetidas
+            for (int i = 0; i < palabraLimpia.Length; i++)
+            { //Recorro el largo de la palabra y toma con la primer letra y la compara y si la salida es distinta es false
+                if (palabraLimpia.IndexOf(palabraLimpia[i]) != palabraLimpia.LastIndexOf(palabraLimpia[i]))
+                {
+                    return false;
+                }
+            }
+
+            return true;
         }
     }
 }
