@@ -15,11 +15,26 @@
             TIPS: Funciones ToCharArray y Contains de la clase String
    */
 
-    public static class Pangram
-    {
-        public static bool IsPangram(string input)
+   
+        public static class Pangram
         {
-            throw new NotImplementedException();
+            public static bool IsPangram(string input)
+            {
+                // Convertir la oración a minúsculas y eliminar los espacios
+                string inputLimpio = input.ToLower().Replace(" ", "");
+
+                // Obtener un arreglo de caracteres de la oración
+                char[] caracteres = inputLimpio.ToCharArray();
+
+                // Verificar si la oración contiene todas las letras del alfabeto
+                for (char letra = 'a'; letra <= 'z'; letra++)
+                {
+                    if (!caracteres.Contains(letra))
+                    {
+                        return false;
+                    }
+                }
+
+                return true;
+            }
         }
-    }
-}

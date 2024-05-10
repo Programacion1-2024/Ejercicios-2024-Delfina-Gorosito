@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Isograma Pandrama\\Pangrama\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D686A5-DC06-4E2D-8D8B-54C4D4F20681}|Pangrama\\Pangrama.csproj|c:\\users\\melli\\onedrive\\documentos\\github\\programacion-delfina-gorosito-2024\\isograma pandrama\\pangrama\\pangrama\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D686A5-DC06-4E2D-8D8B-54C4D4F20681}|Pangrama\\Pangrama.csproj|solutionrelative:pangrama\\ejercicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio.cs",
+              "DocumentMoniker": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Isograma Pandrama\\Pangrama\\Pangrama\\Ejercicio.cs",
+              "RelativeDocumentMoniker": "Pangrama\\Ejercicio.cs",
+              "ToolTip": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Isograma Pandrama\\Pangrama\\Pangrama\\Ejercicio.cs",
+              "RelativeToolTip": "Pangrama\\Ejercicio.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:33:57.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
