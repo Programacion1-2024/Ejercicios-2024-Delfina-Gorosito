@@ -1,0 +1,1 @@
+﻿// Retomando el ejercicio anterior, se colocan los nombres para cadacódigo de producto, (opcional si la carga se realiza del 1 al 10 sin pedir el código o sise ingresa el código y luego la descripción del mismo) ; al finalizar la carga de los 10códigos indicar el nombre de los productos que tuvieron un total de ventas menor a10 unidades//
