@@ -5513,11 +5513,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Dos Por\\Dos Por\\Dos Por.csproj",
-      "projectName": "Dos Por",
-      "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Dos Por\\Dos Por\\Dos Por.csproj",
+      "projectUniqueName": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Ejercicios-Para-Clases\\Diferencias de Cuadrados\\Diferencias de Cuadrados\\Diferencias de Cuadrados.csproj",
+      "projectName": "Diferencias de Cuadrados",
+      "projectPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Ejercicios-Para-Clases\\Diferencias de Cuadrados\\Diferencias de Cuadrados\\Diferencias de Cuadrados.csproj",
       "packagesPath": "C:\\Users\\Melli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Dos Por\\Dos Por\\obj\\",
+      "outputPath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Ejercicios-Para-Clases\\Diferencias de Cuadrados\\Diferencias de Cuadrados\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Melli\\AppData\\Roaming\\NuGet\\NuGet.Config",

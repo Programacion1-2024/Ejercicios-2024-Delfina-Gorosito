@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Dos Por")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Diferencias de Cuadrados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1eb960d58ac95da23a84cc5dd31400994588219c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Dos Por")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Dos Por")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809403c6bbd1064526892bb227a9e63520a2317f")]
+[assembly: System.Reflection.AssemblyProductAttribute("Diferencias de Cuadrados")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Diferencias de Cuadrados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

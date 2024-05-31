@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F7iyHsOP8272wdztVRPBw9K+YHlA6y9cNJHsC68RETm4UaeLamX5MkzJFQU9o6vqCkJnrewfI6FutiXQ0AeoJQ==",
+  "dgSpecHash": "wXL13yHKSY4UhAtp9dBC7cv2L+XxWObmBk3CBNDfoNxh/75C3JAcgO+bVt2SOd69cXWl/AJ2JyotxiK8W4OOrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Programacion-Delfina-Gorosito-2024\\Dos Por\\Dos Por\\Dos Por.csproj",
+  "projectFilePath": "C:\\Users\\Melli\\OneDrive\\Documentos\\GitHub\\Ejercicios-Para-Clases\\Diferencias de Cuadrados\\Diferencias de Cuadrados\\Diferencias de Cuadrados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Melli\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Melli\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
