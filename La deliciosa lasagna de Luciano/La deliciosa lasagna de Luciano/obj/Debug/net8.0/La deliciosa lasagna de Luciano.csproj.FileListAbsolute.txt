@@ -1,0 +1,6 @@
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.csproj.AssemblyReference.cache
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.AssemblyInfoInputs.cache
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.AssemblyInfo.cs
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.csproj.CoreCompileInputs.cache
+C:\Users\Melli\OneDrive\Documentos\GitHub\Ejercicios-Para-Clases\La deliciosa lasagna de Luciano\La deliciosa lasagna de Luciano\obj\Debug\net8.0\La deliciosa lasagna de Luciano.sourcelink.json
