@@ -1,9 +1,6 @@
 ﻿using CEntidades.Entidades;
 using Microsoft.EntityFrameworkCore;
-<<<<<<< HEAD
 using Microsoft.Extensions.DependencyInjection;
-=======
->>>>>>> 8f5e29b6b8db166edcfc336aeade6b4b5aaac562
 
 namespace CDatos.Contexts
 {
@@ -18,7 +15,6 @@ namespace CDatos.Contexts
         {
         }
 
-<<<<<<< HEAD
         public virtual DbSet<Autor> Autor { get; set; }
         public virtual DbSet<Cliente> Cliente { get; set; }
         public virtual DbSet<CopiaLibro> CopiaLibro { get; set; }
@@ -33,19 +29,12 @@ namespace CDatos.Contexts
 
 
 
-=======
-        public virtual DbSet<Example> Example { get; set; }
->>>>>>> 8f5e29b6b8db166edcfc336aeade6b4b5aaac562
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-<<<<<<< HEAD
                 optionsBuilder.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProgramacion2024;Integrated Security=True;TrustServerCertificate=true");
-=======
-                optionsBuilder.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProg2024;Integrated Security=True;TrustServerCertificate=true");
->>>>>>> 8f5e29b6b8db166edcfc336aeade6b4b5aaac562
             }
         }
 
@@ -53,7 +42,6 @@ namespace CDatos.Contexts
         {
             modelBuilder.HasAnnotation("Relational:Collation", "en_US.UTF-8");
 
-<<<<<<< HEAD
             modelBuilder.Entity<Autor>(entity =>
             {
                 entity.HasKey(e => e.IdAutor)
@@ -113,12 +101,6 @@ namespace CDatos.Contexts
                 entity.HasKey(e => e.IdVenta)
                     .HasName("PK_ID_VENTA");
 
-=======
-            modelBuilder.Entity<Example>(entity =>
-            {
-                entity.HasKey(e => e.Id)
-                    .HasName("PK_ID_EXAMPLE");
->>>>>>> 8f5e29b6b8db166edcfc336aeade6b4b5aaac562
             });
 
             OnModelCreatingPartial(modelBuilder);
