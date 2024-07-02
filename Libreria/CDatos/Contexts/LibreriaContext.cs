@@ -26,6 +26,7 @@ namespace CDatos.Contexts
         public virtual DbSet<Persona> Persona { get; set; }
         public virtual DbSet<Prestamo> Prestamo { get; set; }
         public virtual DbSet<Venta> Venta { get; set; }
+        public virtual DbSet<GeneroLibro> GeneroLibro { get; set; }
 
 
 
@@ -104,6 +105,12 @@ namespace CDatos.Contexts
             });
 
             OnModelCreatingPartial(modelBuilder);
+            modelBuilder.Entity<GeneroLibro>(entity =>
+            {
+                entity.HasKey(e => e.IdGeneroLibro)
+                    .HasName("PK_ID_GENERO_LIBRO");
+
+            });
         }
 
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
