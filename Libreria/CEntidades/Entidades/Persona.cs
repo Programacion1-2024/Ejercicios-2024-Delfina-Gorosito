@@ -12,6 +12,8 @@ namespace CEntidades.Entidades
         public string Nombre { get; set;}
         public string Apellido { get; set;}
         public long Dni { get; set;}
+        public int Documento { get; set; }
+        public string TipoDocumento { get; set;}
         public string Telefono { get; set;}
         public string Direccion { get; set;}
         public string Email { get; set;}

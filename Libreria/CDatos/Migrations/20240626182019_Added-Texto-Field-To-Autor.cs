@@ -5,14 +5,14 @@
 namespace CDatos.Migrations
 {
     /// <inheritdoc />
-    public partial class AddedTextoFieldToExample : Migration
+    public partial class AddedTextoFieldToAutor : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.AddColumn<string>(
                 name: "Texto",
-                table: "Example",
+                table: "Autor",
                 type: "nvarchar(max)",
                 nullable: false,
                 defaultValue: "");
@@ -23,7 +23,7 @@ namespace CDatos.Migrations
         {
             migrationBuilder.DropColumn(
                 name: "Texto",
-                table: "Example");
+                table: "Autor");
         }
     }
 }

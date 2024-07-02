@@ -25,7 +25,7 @@ namespace CDatos.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("CEntidades.Entidades.Example", b =>
+            modelBuilder.Entity("CEntidades.Entidades.Autor", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -36,7 +36,7 @@ namespace CDatos.Migrations
                     b.HasKey("Id")
                         .HasName("PK_ID_EXAMPLE");
 
-                    b.ToTable("Example");
+                    b.ToTable("Autor");
                 });
 #pragma warning restore 612, 618
         }

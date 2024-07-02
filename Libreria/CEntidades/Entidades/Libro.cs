@@ -11,8 +11,9 @@ namespace CEntidades.Entidades
         public int IdLibro { get; set;}
         public string Isbn { get; set;}
         public string Descripcion { get; set;}
-        public int AnioPublicacion { get; set;}
+        public DateTime FechaPublicacion { get; set;}
         public string Titulo { get; set;}
+        public int Stock { get; set; }
 
     }
 }

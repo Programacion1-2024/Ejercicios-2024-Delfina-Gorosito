@@ -36,17 +36,13 @@ namespace EjemploRepositorios
             return Host.CreateDefaultBuilder()
                 .ConfigureServices((context, services) => {
 
-                    services.AddTransient<IExampleLogic, ExampleLogic>();
+                    services.AddTransient<IAutorLogic, AutorLogic>();
 
-                    services.AddTransient<IExampleRepository, ExampleRepository>();
+                    services.AddTransient<IAutorRepository, AutorRepository>();
 
                     services.AddTransient<Form1>();
 
-<<<<<<< HEAD
                     services.AddDbContext<LibreriaContext>(options => options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProgramacion2024;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
-=======
-                    services.AddDbContext<LibreriaContext>(options => options.UseSqlServer("Data Source=localhost\\SQLEXPRESS;Initial Catalog=LibreriaProg2024;Integrated Security=True;TrustServerCertificate=true"), ServiceLifetime.Transient);
->>>>>>> 8f5e29b6b8db166edcfc336aeade6b4b5aaac562
                 });
         }
     }

@@ -1,15 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CEntidades.Entidades
 {
-    public class Venta
+    internal class GeneroLibro
     {
-        public int IdVenta { get; set; }
-        public DateTime FechaVenta { get; set;}
+        public int IdGeneroLibro { get; set; }
+        public int IdLibro { get; set;}
     }
 }

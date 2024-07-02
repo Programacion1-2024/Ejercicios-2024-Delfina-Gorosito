@@ -9,7 +9,6 @@ namespace CEntidades.Entidades
     public class CopiaLibro
     {
         public int IdCopiaLibro { get; set; }
-        public int Cantidad { get; set; }
-        public double precio { get; set; }
+        public double PrecioPrestamo { get; set; }
     }
 }
