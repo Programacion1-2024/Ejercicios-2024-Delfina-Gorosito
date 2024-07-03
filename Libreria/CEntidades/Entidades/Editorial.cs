@@ -9,7 +9,7 @@ namespace CEntidades.Entidades
     public class Editorial
     {
         public int IdEditorial { get; set; }
-        public string descripcion  { get; set; }
-        string contacto { get; set; }
+        public string Direccion  { get; set; }
+        public string contacto { get; set; }
     }
 }

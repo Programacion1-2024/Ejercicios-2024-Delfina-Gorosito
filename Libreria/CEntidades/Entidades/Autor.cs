@@ -10,6 +10,9 @@ namespace CEntidades.Entidades
     {
         public string IdAutor { get; set; }
         public string Biografia { get; set; }
+        public Persona Persona { get; set; }
         public int CantidadLibroEscrito { get; set; }
+        public ICollection <Libro> libros { get; set; }
+       
     }
 }

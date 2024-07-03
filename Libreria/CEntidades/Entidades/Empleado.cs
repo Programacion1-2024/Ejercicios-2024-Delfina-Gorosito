@@ -8,7 +8,7 @@ namespace CEntidades.Entidades
 {
     public class Empleado
     {
-        public string IdEmpleado { get; set; }
+        public int IdEmpleado { get; set; }
         public double Sueldo { get; set; }
         public string Puesto { get; set; }
         public DateTime FechaIngreso { get; set; }
